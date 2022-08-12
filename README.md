@@ -1,13 +1,17 @@
 # UFO_Sightings
 Utilize JavaScript, Bootstrap, HTML and CSS to build a customized dynamic website.
 
+# Resources
+Data Sources: 
+data.ds
+
 ### Overview of Project
 Using the UFO sighting data that is stored as a JavaScript array, a table was built within a dynamic website. The table is customized for user input, allowing for filters to be applied to the table. Users can filter the UFO sighting data by country, state, city, and shape of UFO. JavaScript was used build the table while Bootstrap, HTML and CSS were used to customize the appearance of the website.
 
 
 ### Results
 When the webpage first loads, users will see the title in the jumbotron. The webpage was built to be sleek and dark toned to match the eerie quality of the UFO sightings. The article was included in the middle right side of the page with the title on the left. As the user continues to scroll down, the table of data is displayed with the filter box on the left-hand side labelled "filter search"
-<img src="Resources/june_temps.png" width="300">
+<img src="static/images/capitalization_error.png" width="300">
 
 Within the 'Filter Search' box, various filters can be seen. Here the user is able to input a country, city, state, date, and shape. If the search provides results, the user is provided with different data regarding that sighting such as; date, city, state, country, shape, duration and comments describing the sighting. Placeholders were used to give users a general idea of what information to input. Once the user inputs the filter they want, they just press enter and the data will filter accordingly.
 <img src="Resources/june_temps.png" width="300">
