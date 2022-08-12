@@ -12,11 +12,11 @@ Using the UFO sighting data that is stored as a JavaScript array, a table was bu
 ### Results
 When the webpage first loads, users will see the title in the jumbotron. The webpage was built to be sleek and dark toned to match the eerie quality of the UFO sightings. The article was included in the middle right side of the page with the title on the left. As the user continues to scroll down, the table of data is displayed with the filter box on the left-hand side labelled "filter search"
 <br>
-<img src="static/images/webpage.png" width="500">
+<img src="static/images/webpage.png" width="700">
 
 Within the 'Filter Search' box, various filters can be seen. Here the user is able to input a country, city, state, date, and shape. If the search provides results, the user is provided with different data regarding that sighting such as; date, city, state, country, shape, duration and comments describing the sighting. Placeholders were used to give users a general idea of what information to input. Once the user inputs the filter they want, they just press enter and the data will filter accordingly.
 
-<img src="static/images/ufo_filters.png" width="500">
+<img src="static/images/ufo_filters.png" width="700">
 
 ### Summary
 The dynamic website looks sleek and is relatively easy when it comes to user interaction. The light text with the dark background makes the information pop and catches the attention of the reader. The multiple filters allow for the uder to search for different information within the data. The overview at the beginning of the website gives the user an good idea as to what the webpage is about.
